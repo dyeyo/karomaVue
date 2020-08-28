@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Muñeca 1",
+    "precio": 1500,
+    "descripcion": "Esta es una prueba",
+    "img": "../../public/img/cart.jpg"
+  },
+  {
+    "nombre": "Muñeca 2",
+    "precio": 1500,
+    "descripcion": "Esta es una prueba",
+    "img": "../../public/img/cart.jpg"
+  },
+  {
+    "nombre": "Muñeca 3",
+    "precio": 1500,
+    "descripcion": "Esta es una prueba",
+    "img": "../../public/img/cart.jpg"
+  }
+]
